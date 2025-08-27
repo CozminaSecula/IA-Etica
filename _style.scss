@@ -1,0 +1,133 @@
+/*-- scss:defaults --*/
+
+$presentation-title-slide-text-align: "left";
+$presentation-subtitle-slide-text-align: "left";
+
+
+/*-- scss:rules --*/
+
+.smallest {
+  font-size: 0.5em;
+}
+
+.small {
+  font-size: 0.75em;
+}
+
+.medium {
+  font-size: 0.9em;
+}
+
+.big {
+  font-size: 1.2em;
+}
+
+
+.material-symbols-light--balance {
+  display:inline-block;
+  width: 96px;
+  height: 96px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%231696d2' d='M3 20v-1h8.5V7.94q-.708-.129-1.25-.642T9.56 6H6.116L9 13.212q-.058 1-.929 1.702T6 15.616t-2.071-.702T3 13.212L5.885 6H4V5h5.56q.165-.836.834-1.418T12 3t1.606.582T14.44 5H20v1h-1.884L21 13.212q-.058 1-.929 1.702T18 15.616t-2.071-.702T15 13.212L17.884 6h-3.443q-.149.785-.691 1.298t-1.25.643V19H21v1zm12.99-6.884h4.02L18 8.092zm-12 0h4.02L6 8.092zM12 7q.617 0 1.059-.441q.441-.442.441-1.059t-.441-1.059Q12.617 4 12 4t-1.059.441T10.5 5.5t.441 1.059Q11.383 7 12 7'/%3E%3C/svg%3E");
+}
+
+
+.mark, mark {
+  background-color: #cfe8f3;
+  color: #000000;
+}
+
+.reveal .slide .goal {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+  padding-left: 1em;
+  background: #a2d4ec;
+}
+
+.reveal a {
+    color: #000000;
+    text-decoration: none;
+    transition: color .15s ease
+}
+
+
+/* Cards for "Ce este Etica în IA?" */
+.principle-row {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.6rem;
+  align-items: stretch;
+}
+
+.reveal .principle-card {
+  background: #a2d4ec;
+  border: 1px solid #a2d4ec;
+  border-radius: 8px;
+  padding: 0.7rem 0.6rem;
+  color: #000;
+  box-shadow: 0 1px 2px rgba(0,0,0,.1);
+  display: flex;
+  flex-direction: column;
+}
+
+.reveal .principle-card h4 {
+  margin: 0 0 0.35rem;
+  font-weight: 600;
+  font-size: 0.8em;
+  text-align: center;
+}
+
+.reveal .principle-card ul {
+  margin: 0;
+  padding-left: 1.1em;
+  font-size: 0.7em;
+}
+
+.reveal .principle-card li { margin: .15em 0; }
+
+@media (max-width: 1200px) {
+  .principle-row { gap: 0.4rem; }
+  .reveal .principle-card h4 { font-size: 0.75em; }
+  .reveal .principle-card ul { font-size: 0.65em; }
+}
+
+/* Cards for "Provocarile IA" */
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  justify-items: center;
+  align-items: stretch;
+  margin-top: 1.5rem;
+}
+
+.reveal .card {
+  background: #fff;
+  border: 2px solid #1696d2;
+  border-radius: 12px;
+  padding: 1rem;
+  width: 100%;  /* let grid handle sizing */
+ 
+
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+}
+
+@media (max-width: 1000px) {
+  .card-container {
+    grid-template-columns: 1fr 1fr; /* 2 cards per row */
+  }
+}
+
+@media (max-width: 600px) {
+  .card-container {
+    grid-template-columns: 1fr; /* stack vertically */
+  }
+}
+
