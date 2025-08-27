@@ -1,0 +1,182 @@
+[
+  {
+    "objectID": "slide_v0.html#agenda",
+    "href": "slide_v0.html#agenda",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Agenda",
+    "text": "Agenda\n\n\n\n\n\n\n\n\nOră\nActivitate\n\n\n\n\n 09:00 - 10:45\nPartea I: Facem cunoștințăCe este IA?  Etica și Etica în IA Ce este IA Responsabilă? Provocările IA\n\n\n 10:45 - 11:00\nPauză\n\n\n 11:00 - 13:00\nPartea a II-a: Etica IA - Studii de caz  Beneficii și limite ale IA  Concluzii",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#section",
+    "href": "slide_v0.html#section",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "",
+    "text": "În 1956 Profesorul John McCarthy împreună cu colegii săi au inventat termenul inteligența artificială (IA) ca fiind știința și ingineria construirii de mașini inteligente.\n\n\n\n\nIA este o tehnologie care permite sistemelor (software din computere sau mașini) să simuleze inteligența umană.\n\n\n\nIA poate executa anumite sarcini care necesită, de obicei, inteligență umană, de exemplu învățare sau raționament.",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#section-1",
+    "href": "slide_v0.html#section-1",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "",
+    "text": "Un sistem de IA se referă la un software care este dezvoltat prin una sau mai multe tehnici și abordări și care, pentru un anumit set de obiective definite de om, poate genera rezultate precum previziuni, recomandări, decizii sau conținuturi care pot influența mediile cu care interacționează.",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#învățarea-automată",
+    "href": "slide_v0.html#învățarea-automată",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Învățarea automată",
+    "text": "Învățarea automată\n\n\n\n\n\nÎnvățarea automată (ML) este un subdomeniu a inteligenței artificiale (IA) care permite sistemelor să învețe și să ia decizii pe baza datelor, fără a fi programate explicit pentru fiecare sarcină.\nSistemele IA, folosind algoritmi (metode pas cu pas pentru a rezolva probleme), învață direct din date să recunoască trenduri.\nAceste trenduri ajută în realizarea predicțiilor și a recomandărilor.",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#învățarea-profundă",
+    "href": "slide_v0.html#învățarea-profundă",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Învățarea profundă",
+    "text": "Învățarea profundă\n\n\n\n\n\nÎnvățarea profundă (DL) este o formă avansată a învățării automate care folosește rețele neuronale artificiale.\nAcestea sunt modelate imitând creierul uman pentru a identifica relațiile dintre cuvinte, fraze în cantități mari de date.\nSunt folosite pentru diferite sarcini cum ar fi recunoașterea obiectelor în imagini sau cu a cuvintelor în vorbile.\nRețelele sunt adesea descrise drept “cutii negre”, deoarece “deciziile” pe care le iau pentru a obține rezultate nu sunt întotdeauna transparente.",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#ia-generativă",
+    "href": "slide_v0.html#ia-generativă",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "IA Generativă",
+    "text": "IA Generativă\n\n\n\n\n\nInteligența artificială generativă este o formă evoluată de învățare profundă.\nAvest tip de IA folosește rețene neuronale mai aprofundate, numite modele lingvistice mari pentru a lucra cu o cantitate mai mare de date și a realiza sarcini complexe.\nFolosind IA generativă, sistemele pot genera text nou, date, imagini și video.\nInstrumente IA generativă: Copilot (Microsoft), ChatGPT (OpenAI), Claude (Anthropic), Gemini (Google) și DeepSeek ( un instrument chinezesc).",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#modelele-lingvistice-mari",
+    "href": "slide_v0.html#modelele-lingvistice-mari",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Modelele Lingvistice Mari",
+    "text": "Modelele Lingvistice Mari\n\n\n\n\n\nUn model lingvistic mare este o tehnică de inteligență artificială care este antrenată pe cantități mari de date text.\nEste capabil să proceseze limbajul natural și să genereze text nou.\nGPT-5 (august 2025) este model lingvistic mare actual, o versiune gratuită a ChatGPT (OpenAI).",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#section-2",
+    "href": "slide_v0.html#section-2",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "",
+    "text": "IA are aplicabilitate în aproape toate domeniile …\n\n\n… și potențial să ne transforme viețile.",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#section-3",
+    "href": "slide_v0.html#section-3",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "",
+    "text": "Unii oamenii cred că IA  va transforma economia.\n\n\n\n\n\n\n\n\n\nAlții, cred că  va transforma scietatea.\n\n\n\n\n\n\n\n\n\n\nÎnsă mulți oameni nu știu  că IA ia decizii care le impactează viața în mod direct.\n\n\n\nAvând în vedere implicațiile pe scară largă și necunoscute pe care IA le are pentru societate și planetă, este important să ne uităm la aspectele etice pe care dezvoltarea și implementarea sistemelor IA le ridică.",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#ce-este-etica",
+    "href": "slide_v0.html#ce-este-etica",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Ce este Etica?",
+    "text": "Ce este Etica?\n\nEtica este un set de principii morale care ne ajută să discernem între bine și rău.\n\n\n\n\n\n\n\n\n\nTeodoraturovic, CC BY-SA 4.0, via Wikimedia Commons\n\n\n\nCe este bine sau rău?\nCe este corect sau greșit?\nCe este dreptatea, bunăstarea sau egalitatea?",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#ce-este-etica-în-ia",
+    "href": "slide_v0.html#ce-este-etica-în-ia",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Ce este Etica în IA?",
+    "text": "Ce este Etica în IA?\n\nCe ar trebui să facă mașina autonomă?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSursa: https://www.moralmachine.net/",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#ce-s-ar-întâmpla-dacă",
+    "href": "slide_v0.html#ce-s-ar-întâmpla-dacă",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Ce s-ar întâmpla dacă …",
+    "text": "Ce s-ar întâmpla dacă …\n\n\n\nUn sistem de IA ar decide dacă primiți sau nu un împrumut?\nUn sistem de IA ar judeca daca cineva este sau nu condamnat la închisoare?\nO mașină autonomă ar trebui să decidă dacă să salveze viața pasagerului din mașină sau a pietonului?\nUn sistem de recrutare bazat pe IA ar decide dacă să primești sau nu locul de muncă pentru care ai aplicat?\nUn sistem de IA ar decide dacă să intri sau nu la facultatea la care ai aplicat?\n\n\n\n\n\n\nAstăzi IA ia decizii care ne impactează în mod direct.",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#ce-este-etica-în-ia-1",
+    "href": "slide_v0.html#ce-este-etica-în-ia-1",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Ce este Etica în IA?",
+    "text": "Ce este Etica în IA?\n\nEtica IA sau IA Responsabilă este un set de principii și linii directoare care ghidează dezvoltarea, implementarea și utilizarea IA.\n\n\n\nPrincipiul #1: Binefacere\n\nPromovarea bunăstării\nPăstrarea demnității\nSusținerea planetei\n\n\n\nPrincipiul #2: Non‑vătămare\n\nConfidențialitate\nSecuritate\nPrudență privind capacitățile\n\n\n\nPrincipiul #3: Autonomie\n\nPuterea de a decide (să decizi)\n\n\n\nPrincipiul #4: Dreptate\n\nPromovarea prosperității\nPăstrarea solidarității\nEvitarea nedreptății\n\n\n\nPrincipiul #5: Explicabilitate\n\nTransparență\nResponsabilitate\n\n\n\n\nBinefacerii: Promovarea bunăstării, păstrarea demnității și susținerea planetei\nIA ar trebui “dezvoltată pentru binele comun și beneficiul umanității.”\nNon-vătămării: Confidențialitate, Securitate și Prudență privind capacitățile\nIA ar trebui să opereze “în limite sigure”, “să evite utilizarea necorespunzătoare”, iar cei care dezvoltă sistemele IA ar trebui “să își asume responsabilitatea acționând împotriva riscurilor care decurg din inovațiile lor tehnologice”.\nAutonomie: Puterea de a decide (să decizi)\n“Oamenii ar trebui să aleagă cum și dacă să delege deciziile sistemelor de inteligență artificială, pentru a îndeplini obiectivele alese de oameni.”\nDreptate și corectitudine: Promovarea prosperității, păstrarea solidarității, evitarea nedreptății\n“Dezvoltarea IA ar trebui să promoveze echitatea și să urmărească eliminarea tuturor tipurilor de discriminare”“, IA ar trebui să”contribuie la justiția globală și la accesul egal la beneficiile tehnologiilor IA”.\nExplicabilitate: Activarea celorlalte principii prin transparență și responsabilitate\nÎnțelegerea modului în care IA ia deciziile (cum funcționează) și cine este responsabil pentru modul în care funcționează (cine răspunde pentru un rezultat negativ, grav).\nCompletează celelalte patru principii:\n\npentru ca IA să fie benefică și non-vătămătoare, trebuie să fim capabili să înțelegem binele sau răul pe care îl face efectiv societății și în ce moduri;\npentru ca IA să promoveze și nu să constrângă autonomia umană, “decizia noastră cu privire la cine ar trebui să decidă” trebuie să fie informată de cunoașterea modului în care IA ar acționa în locul nostru;\npentru ca IA să fie justă, trebuie să știm pe cine să tragem la răspundere în cazul unui rezultat negativ grav, ceea ce ar necesita, la rândul său, o înțelegere adecvată a motivului pentru care a apărut acest rezultat.\nIA etică se referă la valorile societale și la încercarea de a face ceea ce trebuie.\nIA responsabilă, pe de altă parte, este practica prin care dezvoltăm și utilizăm tehnologia și instrumentele IA într-un mod care aduce beneficii societății, minimizând în același timp riscul consecințelor negative.",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#provocările-ia",
+    "href": "slide_v0.html#provocările-ia",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Provocările IA",
+    "text": "Provocările IA\n13 provocări ale IA pe care este bine să le cunoaștem\n\n\nResponsabilitatea\nResursele necesare pentru operarea sistemelor IA\nIncertitudinea profundă\nExplicabilitatea\nEchitatea\nFactorul uman\n(In)exactitatea\nConfidențialitatea\nReglementarea\nSiguranța\nSecuritatea\nTransparența\nImpactul asupra forței de muncă\n\n\n\nIA Responsabilă implică adoptarea unor practici care să facă față provocărilor pe care IA le prezintă.",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#responsabilitatea",
+    "href": "slide_v0.html#responsabilitatea",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Responsabilitatea",
+    "text": "Responsabilitatea\n\n\n\nResponsabilitatea\n\nResponsabilitatea este esențială pentru gestionarea riscurilor create de IA.\n\n\nCum funcționează sistemul IA?\nDacă sistemul nu funcționează bine – dacă este nesigur, este părtinitor sau face o greșeală – cine este responsabil?\nCum ar putea cineva să raporteze o problemă cu sistemul de IA?\nCe s-ar întâmpla dacă ar face-o?\n\n\n\n\nDe ce este o provocare?\n\n\nIA creează o distanță între utilizatori și procesul decizional. Informațiile, argumentele și alegerile sunt ascunse în spatele tehnologiei, devenind opace.\nLipsa de transparență face dificil de înțeles cum funcționează sistemul și de ce a luat o anumită decizie.\nEste greu de identificat o problemă și de a găsi soluții eficiente.\nAstfel, există riscul unei “prăbușiri totale a responsabilității”.\n\n\n\n\n\n\n\n\n\n\nSursa: https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit\n\nCazul Air Canada\nResponsabilitatea chatbot-urilor\n\n\n\nCazul Air Canada În 2022, un client a contactat chatbot-ul Air Canada pentru a obține informații despre tarifele speciale pentru călătoriile de urgență, cum ar fi cele pentru înmormântări. Bot-ul i-a furnizat informații greșite, ceea ce l-a făcut să achiziționeze bilete bazându-se pe o reducere care nu exista.\nAtunci când a solicitat rambursarea, Air Canada a refuzat, susținând în instanță că chatbot-ul era o „entitate juridică separată” și, prin urmare, responsabilă pentru propriile acțiuni. Tribunalul a respins categoric această argumentație, hotărând că compania aeriană era, de fapt, responsabilă pentru toate informațiile publicate pe site-ul său, indiferent dacă acestea proveneau dintr-o pagină statică sau dintr-un instrument de inteligență artificială. Prin urmare, Air Canada a fost obligată să plătească despăgubiri clientului.\nImplicații ale cazului Acest caz este un exemplu clar al modului în care responsabilitatea poate deveni neclară odată cu integrarea inteligenței artificiale. Încercând să transfere vina către chatbot ca fiind o entitate independentă, compania a demonstrat cât de esențial este ca organizațiile să-și asume întreaga responsabilitate pentru sistemele lor bazate pe inteligența artificială. Altfel, se poate ajunge la o „prăbușire a responsabilității” în fața consumatorilor.",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#resursele-necesare-pentru-operarea-sistemelor-ia",
+    "href": "slide_v0.html#resursele-necesare-pentru-operarea-sistemelor-ia",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Resursele necesare pentru operarea sistemelor IA",
+    "text": "Resursele necesare pentru operarea sistemelor IA\n\n\n\nCostul ascuns al IA\n\nProducerea și operarea sistemelor de IA necesită o cantitate enormă de energie și resurse.\n\n\nCentrele de date: Consumă cantități uriașe de energie și apă pentru a antrena modelele și a preveni supraîncălzirea.\nIA Generativă: Utilizează considerabil mai multă energie decât software-ul tradițional.\n\nCrearea unei singure imagini poate consuma la fel de multă energie ca încărcarea completă a unui smartphone.\n\n\n\nDe ce este o provocare?\n\n\nCompaniile care folosesc sisteme IA de la furnizori s-ar putea să nu se simtă responsabile pentru procesul de producție intensiv în resurse.\nResponsabilitatea pentru impactul asupra mediului vine odată cu sistemul, la fel cum se întâmplă cu alte probleme etice (ex: poluarea).\n\n\nSuntem conștienți de energia consumată de fiecare dată când folosim un sistem IA?\nExistă alternative mai puțin intensive în resurse pentru a realiza ce ne dorim?",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#incertitudinea-profundă",
+    "href": "slide_v0.html#incertitudinea-profundă",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Incertitudinea profundă",
+    "text": "Incertitudinea profundă\n\n\n\nIncertitudinea profundă\n\nIncertitudinea profundă înseamnă că nu știm exact cum va evolua IA, cum ne va schimba viața și societatea sau cum va fi reglementată.\n\n\nSistemele IA se comportă adesea în moduri neașteptate, chiar și pentru creatorii lor.\nÎn fiecare zi, se descoperă noi capacități, dar și noi riscuri sau vulnerabilități în sistemele IA.\nViitorul este în continuă și profundă schimbare, iar chiar și experții pot doar specula despre ce urmează.\n\n\n\n\nDe ce este o provocare?\n\n\nDeoarece sistemele IA nu “gândesc” ca oamenii, ele se comportă adesea în moduri nefamiliare și neașteptate, chiar și pentru cei care le-au construit.\nTehnologia IA, în special cea generativă, evoluează cu o viteză amețitoare, dobândind capacități care recent păreau de neimaginat.\n\n\nCare sunt “necunoscutele cunoscute”? (Știm ce nu știm?)\nCare dintre acestea sunt cele mai periculoase?\nCum ne pregătim pentru surprizele inevitabile care vor veni?",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#referințe",
+    "href": "slide_v0.html#referințe",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Referințe",
+    "text": "Referințe\n\nJohn McCarthy (computer scientist). (8 August 2025) În Wikipedia.\nEU AI Act, 2024\nArtificial Intelligence (AI)\nEconomic impacts of artificial intelligence (AI)\nHuman-first AI: What decisions today will impact AI for humanity tomorrow?\nFloridi, L., & Cowls, J. (2019). A Unified Framework of Five Principles for AI in Society. Harvard Data Science Review, 1(1). https://doi.org/10.1162/99608f92.8cd550d1\nJaques, A. E., Phillips-Brown, M., & Nemes, M. (2024, November 13). It’s not just business: AI risks, rewards and responsibilities. Zenodo. https://doi.org/10.5281/zenodo.14137369\nIntroducing the OECD AI Capability Indicators\nWhy This Award-Winning Piece of AI Art Can’t Be Copyrighted",
+    "crumbs": [
+      "Prezentare"
+    ]
+  }
+]
