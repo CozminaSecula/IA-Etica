@@ -189,11 +189,11 @@ Un [**sistem de IA**]{.mark} se referă la un software care este dezvoltat prin 
 ![](/images/IA.svg){ .absolute bottom=40 left=600 width="500" height="500" .fragment fragment-index=1}
 </div>
 
-<div class="absolute" style="top: 1px; left: 50%; transform: translateX(-50%); width: 100%; text-align: center; font-weight: bold">
+<div class="absolute" style="top: 1px; left: 50%; transform: translateX(-50%); width: 100%; text-align: center;">
 IA are aplicabilitate în aproape toate domeniile ...
 </div>
 
-<div class="absolute fragment" data-fragment-index="10" style="bottom: 1px; left: 50%; transform: translateX(-50%); width: 100%; text-align: center; font-weight: bold">
+<div class="absolute fragment" data-fragment-index="10" style="bottom: 1px; left: 50%; transform: translateX(-50%); width: 100%; text-align: center;">
 ... și potențial să ne transforme viețile.
 </div>
 
@@ -204,7 +204,7 @@ IA are aplicabilitate în aproape toate domeniile ...
 ::: {.column}
 
 ::: center
-**Unii oamenii cred că IA <br> va transforma economia.**
+Unii oamenii cred că IA <br> va transforma economia.
 :::
 
 ![](/images/pro-IA.svg){width="70%" fig-align="center"}
@@ -213,7 +213,7 @@ IA are aplicabilitate în aproape toate domeniile ...
 ::: {.column}
 ::: fragment
 ::: center
-**Alții, cred că <br> va transforma scietatea.**
+Alții, cred că <br> va transforma scietatea.
 :::
 
 ![](/images/cons-IA.svg){width="70%" fig-align="center"}
@@ -224,7 +224,7 @@ IA are aplicabilitate în aproape toate domeniile ...
 
 ::: fragment
 ::: center
-**Însă mulți oameni nu știu <br> că IA ia decizii care le impactează viața în mod direct.**
+Însă mulți oameni nu știu <br> că IA ia decizii care le impactează viața în mod direct.
 :::
 :::
 
