@@ -34,7 +34,7 @@
     "href": "slide_v0.html#învățarea-automată",
     "title": "Inteligența Artificială Responsabilă",
     "section": "Învățarea automată",
-    "text": "Învățarea automată\n\n\n\n\n\nÎnvățarea automată (ML) este un subdomeniu a inteligenței artificiale (IA) care permite sistemelor să învețe și să ia decizii pe baza datelor, fără a fi programate explicit pentru fiecare sarcină.\nSistemele IA, folosind algoritmi (metode pas cu pas pentru a rezolva probleme), învață direct din date să recunoască trenduri.\nAceste trenduri ajută în realizarea predicțiilor și a recomandărilor.",
+    "text": "Învățarea automată\n\n\n\n\nÎnvățarea automată (ML) este un subdomeniu a inteligenței artificiale (IA) care permite sistemelor să învețe și să ia decizii pe baza datelor, fără a fi programate explicit pentru fiecare sarcină.\nSistemele IA, folosind algoritmi (metode pas cu pas pentru a rezolva probleme), învață direct din date să recunoască trenduri.\nAceste trenduri ajută în realizarea predicțiilor și a recomandărilor.",
     "crumbs": [
       "Prezentare"
     ]
@@ -44,7 +44,7 @@
     "href": "slide_v0.html#învățarea-profundă",
     "title": "Inteligența Artificială Responsabilă",
     "section": "Învățarea profundă",
-    "text": "Învățarea profundă\n\n\n\n\n\nÎnvățarea profundă (DL) este o formă avansată a învățării automate care folosește rețele neuronale artificiale.\nAcestea sunt modelate imitând creierul uman pentru a identifica relațiile dintre cuvinte, fraze în cantități mari de date.\nSunt folosite pentru diferite sarcini cum ar fi recunoașterea obiectelor în imagini sau cu a cuvintelor în vorbile.\nRețelele sunt adesea descrise drept “cutii negre”, deoarece “deciziile” pe care le iau pentru a obține rezultate nu sunt întotdeauna transparente.",
+    "text": "Învățarea profundă\n\n\n\n\nÎnvățarea profundă (DL) este o formă avansată a învățării automate care folosește rețele neuronale artificiale.\nAcestea sunt modelate imitând creierul uman pentru a identifica relațiile dintre cuvinte, fraze în cantități mari de date.\nSunt folosite pentru diferite sarcini cum ar fi recunoașterea obiectelor în imagini sau cu a cuvintelor în vorbile.\nRețelele sunt adesea descrise drept “cutii negre”, deoarece “deciziile” pe care le iau pentru a obține rezultate nu sunt întotdeauna transparente.",
     "crumbs": [
       "Prezentare"
     ]
@@ -54,7 +54,7 @@
     "href": "slide_v0.html#ia-generativă",
     "title": "Inteligența Artificială Responsabilă",
     "section": "IA Generativă",
-    "text": "IA Generativă\n\n\n\n\n\nInteligența artificială generativă este o formă evoluată de învățare profundă.\nAvest tip de IA folosește rețene neuronale mai aprofundate, numite modele lingvistice mari pentru a lucra cu o cantitate mai mare de date și a realiza sarcini complexe.\nFolosind IA generativă, sistemele pot genera text nou, date, imagini și video.\nInstrumente IA generativă: Copilot (Microsoft), ChatGPT (OpenAI), Claude (Anthropic), Gemini (Google) și DeepSeek ( un instrument chinezesc).",
+    "text": "IA Generativă\n\n\n\n\nInteligența artificială generativă este o formă evoluată de învățare profundă.\nAvest tip de IA folosește rețene neuronale mai aprofundate, numite modele lingvistice mari pentru a lucra cu o cantitate mai mare de date și a realiza sarcini complexe.\nFolosind IA generativă, sistemele pot genera text nou, date, imagini și video.\nInstrumente IA generativă: Copilot (Microsoft), ChatGPT (OpenAI), Claude (Anthropic), Gemini (Google) și DeepSeek ( un instrument chinezesc).",
     "crumbs": [
       "Prezentare"
     ]
@@ -64,7 +64,7 @@
     "href": "slide_v0.html#modelele-lingvistice-mari",
     "title": "Inteligența Artificială Responsabilă",
     "section": "Modelele Lingvistice Mari",
-    "text": "Modelele Lingvistice Mari\n\n\n\n\n\nUn model lingvistic mare este o tehnică de inteligență artificială care este antrenată pe cantități mari de date text.\nEste capabil să proceseze limbajul natural și să genereze text nou.\nGPT-5 (august 2025) este model lingvistic mare actual, o versiune gratuită a ChatGPT (OpenAI).",
+    "text": "Modelele Lingvistice Mari\n\n\n\n\nUn model lingvistic mare este o tehnică de inteligență artificială care este antrenată pe cantități mari de date text.\nEste capabil să proceseze limbajul natural și să genereze text nou.\nGPT-5 (august 2025) este model lingvistic mare actual, o versiune gratuită a ChatGPT (OpenAI).",
     "crumbs": [
       "Prezentare"
     ]
@@ -114,7 +114,7 @@
     "href": "slide_v0.html#ce-s-ar-întâmpla-dacă",
     "title": "Inteligența Artificială Responsabilă",
     "section": "Ce s-ar întâmpla dacă …",
-    "text": "Ce s-ar întâmpla dacă …\n\n\n\nUn sistem de IA ar decide dacă primiți sau nu un împrumut?\nUn sistem de IA ar judeca daca cineva este sau nu condamnat la închisoare?\nO mașină autonomă ar trebui să decidă dacă să salveze viața pasagerului din mașină sau a pietonului?\nUn sistem de recrutare bazat pe IA ar decide dacă să primești sau nu locul de muncă pentru care ai aplicat?\nUn sistem de IA ar decide dacă să intri sau nu la facultatea la care ai aplicat?\n\n\n\n\n\n\nAstăzi IA ia decizii care ne impactează în mod direct.",
+    "text": "Ce s-ar întâmpla dacă …\n\n\nUn sistem de IA ar decide dacă primiți sau nu un împrumut?\nUn sistem de IA ar judeca daca cineva este sau nu condamnat la închisoare?\nO mașină autonomă ar trebui să decidă dacă să salveze viața pasagerului din mașină sau a pietonului?\nUn sistem de recrutare bazat pe IA ar decide dacă să primești sau nu locul de muncă pentru care ai aplicat?\nUn sistem de IA ar decide dacă să intri sau nu la facultatea la care ai aplicat?\n\n\n\n\n\nAstăzi IA ia decizii care ne impactează în mod direct.",
     "crumbs": [
       "Prezentare"
     ]
