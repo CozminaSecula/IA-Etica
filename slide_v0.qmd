@@ -587,7 +587,7 @@ Incertitudinea profundă înseamnă că nu știm exact cum va evolua IA, cum ne 
 
 ::: {.card .fragment}
 
-![](/images/OECD-indicatori.svg){.lightbox fig-align="center"}
+![](/images/OECD-indicatori.svg){.lightbox fig-align="center" width="100"}
 
 
 :::
