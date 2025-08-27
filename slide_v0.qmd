@@ -178,8 +178,8 @@ Un [**sistem de IA**]{.mark} se referă la un software care este dezvoltat prin 
 ## 
 
 <div>
-![](/images/spam.png){.absolute bottom=30 right=50 width="200" height="150" .fragment fragment-index=2}
-![](/images/recommendation.png){.absolute bottom=230 right=50 width="250" height="150" .fragment fragment-index=3}
+![](/images/spam.png){.absolute bottom=30 right=50 width="250" height="150" .fragment fragment-index=2}
+![](/images/netflix.png){.absolute bottom=230 right=50 width="250" height="150" .fragment fragment-index=3}
 ![](/images/AI-in-desease-diagnosis.png){.absolute bottom=430 right=50 width="250" height="150" .fragment fragment-index=4}
 ![](/images/agriculture.png){.absolute bottom=30 left=50 width="250" height="150" .fragment fragment-index=9}
 ![](/images/education.png){.absolute bottom=230 left=50 width="250" height="150" .fragment fragment-index=8}
@@ -189,11 +189,11 @@ Un [**sistem de IA**]{.mark} se referă la un software care este dezvoltat prin 
 ![](/images/IA.svg){ .absolute bottom=40 left=600 width="500" height="500" .fragment fragment-index=1}
 </div>
 
-<div class="absolute" style="top: 1px; left: 50%; transform: translateX(-50%); width: 100%; text-align: center;">
+<div class="absolute" style="top: 1px; left: 50%; transform: translateX(-50%); width: 100%; text-align: center; font-weight: bold">
 IA are aplicabilitate în aproape toate domeniile ...
 </div>
 
-<div class="absolute fragment" data-fragment-index="10" style="bottom: 1px; left: 50%; transform: translateX(-50%); width: 100%; text-align: center;">
+<div class="absolute fragment" data-fragment-index="10" style="bottom: 1px; left: 50%; transform: translateX(-50%); width: 100%; text-align: center; font-weight: bold">
 ... și potențial să ne transforme viețile.
 </div>
 
@@ -204,7 +204,7 @@ IA are aplicabilitate în aproape toate domeniile ...
 ::: {.column}
 
 ::: center
-Unii oamenii cred că IA <br> va transforma economia.
+**Unii oamenii cred că IA <br> va transforma economia.**
 :::
 
 ![](/images/pro-IA.svg){width="70%" fig-align="center"}
@@ -213,7 +213,7 @@ Unii oamenii cred că IA <br> va transforma economia.
 ::: {.column}
 ::: fragment
 ::: center
-Alții, cred că <br> va transforma scietatea.
+**Alții, cred că <br> va transforma scietatea.**
 :::
 
 ![](/images/cons-IA.svg){width="70%" fig-align="center"}
@@ -224,7 +224,7 @@ Alții, cred că <br> va transforma scietatea.
 
 ::: fragment
 ::: center
-Însă mulți oameni nu știu <br> că IA ia decizii care le impactează viața în mod direct.
+**Însă mulți oameni nu știu <br> că IA ia decizii care le impactează viața în mod direct.**
 :::
 :::
 
@@ -618,6 +618,9 @@ Jaques, A. E., Phillips-Brown, M., & Nemes, M. (2024, November 13). It's not jus
 [Introducing the OECD AI Capability Indicators](https://www.oecd.org/en/publications/introducing-the-oecd-ai-capability-indicators_be745f04-en.html)
 
 [Why This Award-Winning Piece of AI Art Can’t Be Copyrighted](https://www.wired.com/story/ai-art-copyright-matthew-allen/)
+
+Nazish Aijaz, He Lan, Tausif Raza, Muhammad Yaqub, Rashid Iqbal, Muhammad Salman Pathan, Artificial intelligence in agriculture: Advancing crop productivity and sustainability, Journal of Agriculture and Food Research, Volume 20, 2025, 101762,
+ISSN 2666-1543, https://doi.org/10.1016/j.jafr.2025.101762.
 
 :::
 
