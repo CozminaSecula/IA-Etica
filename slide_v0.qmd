@@ -1,7 +1,6 @@
 ---
 title: "Inteligența Artificială Responsabilă"
 subtitle: "Provocări și considerații etice în IA"
-author: "<br> Cozmina Secula"
 format: 
   revealjs:
     theme: [default, _style.scss]
