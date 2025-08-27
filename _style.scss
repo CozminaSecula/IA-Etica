@@ -1,37 +1,73 @@
 /*-- scss:defaults --*/
 
-$presentation-title-slide-text-align: "left";
-$presentation-subtitle-slide-text-align: "left";
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400');
+
+$font-family-sans-serif: 'Open Sans', sans-serif !default;
+$font-family-monospace: 'Source Code Pro', monospace !default;
+$presentation-heading-font: "Open Sans", sans-serif !default;
+$presentation-title-slide-text-align: left;
+$presentation-heading-font-weight: 400;
+$presentation-h2-font-size: 1.4em !default;
+$presentation-font-size-root: 38px !default;
+
+// colors
+$body-bg:      #FFFFFF;
+$body-color:   #000000;
 
 /*-- scss:rules --*/
 
-.smallest {
-  font-size: 0.5em;
+#title-slide .subtitle {
+  font-size: 60px;
+  font-weight: 600;
+}
+
+#title-slide .quarto-title-author-name {
+  font-size: 50px;
+  font-weight: 300;
+}
+
+#title-slide .institute {
+  font-weight: 1000;
 }
 
 .small {
-  font-size: 0.75em;
+  font-size: 0.85em;
+}
+
+.smallest {
+  font-size: 0.7em;
+}
+
+.large {
+  font-size: 1.5em;
 }
 
 .medium {
   font-size: 0.9em;
 }
 
-.big {
-  font-size: 1.2em;
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
-
-.material-symbols-light--balance {
-  display:inline-block;
-  width: 96px;
-  height: 96px;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%231696d2' d='M3 20v-1h8.5V7.94q-.708-.129-1.25-.642T9.56 6H6.116L9 13.212q-.058 1-.929 1.702T6 15.616t-2.071-.702T3 13.212L5.885 6H4V5h5.56q.165-.836.834-1.418T12 3t1.606.582T14.44 5H20v1h-1.884L21 13.212q-.058 1-.929 1.702T18 15.616t-2.071-.702T15 13.212L17.884 6h-3.443q-.149.785-.691 1.298t-1.25.643V19H21v1zm12.99-6.884h4.02L18 8.092zm-12 0h4.02L6 8.092zM12 7q.617 0 1.059-.441q.441-.442.441-1.059t-.441-1.059Q12.617 4 12 4t-1.059.441T10.5 5.5t.441 1.059Q11.383 7 12 7'/%3E%3C/svg%3E");
+.middle{
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
 }
 
+.section-title{
+  vertical-align: middle;
+  text-align: center;
+  margin-top: 350px;
+  font-size: 90px;
+  font-weight: 500;
+}
 
 .mark, mark {
   background-color: #cfe8f3;

@@ -15,12 +15,12 @@ format:
 
 
 
-## Agenda {.center .small}
+## Agenda 
 
-
+<br>
 
 | Oră | Activitate |
-|------------------------------------|-----------------------------------------------------------------|
+|:---|:---|
 | {{< bi clock >}} 09:00 - 10:45 | **Partea I:**<br> Facem cunoștință<br>Ce este IA? <br> Etica și Etica în IA<br> Ce este IA Responsabilă?<br> Provocările IA |
 | {{< bi cup-hot >}} 10:45 - 11:00 | **Pauză** |
 | {{< bi clock >}} 11:00 - 13:00 | **Partea a II-a:**<br> Etica IA - Studii de caz <br> Beneficii și limite ale IA <br> Concluzii |
@@ -29,12 +29,12 @@ format:
 # Ce este inteligența artificială? 
 
 ## 
-În 1956 Profesorul John McCarthy împreună cu colegii săi au inventat termenul inteligența artificială (IA) ca fiind **știința și ingineria construirii de mașini inteligente**.
+În 1956 Profesorul John McCarthy împreună cu colegii săi au inventat termenul [inteligența artificială (IA) ca fiind **știința și ingineria construirii de mașini inteligente**]{.mark}.
 
 
 ::: {.columns}
 ::: {.column}
-::: small
+
 <br>
 
 - IA este o tehnologie care permite sistemelor (software din computere sau mașini) să simuleze inteligența umană.
@@ -43,7 +43,7 @@ format:
 
 - IA poate executa anumite sarcini care necesită, de obicei, inteligență umană, de exemplu învățare sau raționament.
 :::
-:::
+
 
 ::: {.column}
 ![](/images/IA.svg){width="70%" fig-align="center"}
@@ -52,7 +52,7 @@ format:
 
 ## 
 
-Un [sistem de IA]{.mark} se referă la un software care este dezvoltat prin una sau mai multe tehnici și abordări și care, pentru un anumit set de obiective definite de om, poate genera rezultate precum previziuni, recomandări, decizii sau conținuturi care pot influența mediile cu care interacționează.
+Un [**sistem de IA**]{.mark} se referă la un software care este dezvoltat prin una sau mai multe tehnici și abordări și care, pentru un anumit set de obiective definite de om, poate genera rezultate precum previziuni, recomandări, decizii sau conținuturi care pot influența mediile cu care interacționează.
 
 
 ::: {.columns}
@@ -73,14 +73,15 @@ Un [sistem de IA]{.mark} se referă la un software care este dezvoltat prin una 
 
 ::: {.column  width="60%"}
 ::: incremental
-::: medium
+
+<br>
 
 - **Învățarea automată (ML)** este un subdomeniu a inteligenței artificiale (IA) care permite sistemelor să învețe și să ia decizii pe baza datelor, fără a fi programate explicit pentru fiecare sarcină.
 
 - Sistemele IA, folosind algoritmi (metode pas cu pas pentru a rezolva probleme), învață direct din date să recunoască trenduri. 
 
 - Aceste trenduri ajută în realizarea predicțiilor și a recomandărilor.
-:::
+
 :::
 :::
 
@@ -97,7 +98,8 @@ Un [sistem de IA]{.mark} se referă la un software care este dezvoltat prin una 
 
 ::: {.column width="60%"}
 ::: incremental
-::: medium
+
+<br>
 
 
 - **Învățarea profundă (DL)** este o formă avansată a învățării automate care folosește **rețele neuronale artificiale**.
@@ -108,9 +110,8 @@ Un [sistem de IA]{.mark} se referă la un software care este dezvoltat prin una 
 
 - Rețelele sunt adesea descrise drept "cutii negre", deoarece "deciziile" pe care le iau pentru a obține rezultate nu sunt întotdeauna transparente.
 :::
+:::
 
-:::
-:::
 ::: {.column width="40%"}
 <br>
 ![](/images/AI-domain.svg){fig-align="center"}
@@ -124,7 +125,8 @@ Un [sistem de IA]{.mark} se referă la un software care este dezvoltat prin una 
 
 ::: {.column width="60%"}
 ::: incremental
-::: medium
+
+<br>
 
 
 - **Inteligența artificială generativă** este o formă evoluată de învățare profundă.
@@ -136,9 +138,8 @@ Un [sistem de IA]{.mark} se referă la un software care este dezvoltat prin una 
 - Instrumente IA generativă: **Copilot** (Microsoft), **ChatGPT** (OpenAI), **Claude** (Anthropic), **Gemini** (Google) și **DeepSeek** ( un instrument chinezesc).
 
 :::
+:::
 
-:::
-:::
 ::: {.column width="40%"}
 <br>
 ![](/images/AI-domain.svg){fig-align="center"}
@@ -153,7 +154,7 @@ Un [sistem de IA]{.mark} se referă la un software care este dezvoltat prin una 
 
 ::: {.column width="60%"}
 ::: incremental
-::: medium
+
 
 <br>
 
@@ -165,9 +166,8 @@ Un [sistem de IA]{.mark} se referă la un software care este dezvoltat prin una 
 - GPT-5 (august 2025) este model lingvistic mare actual, o versiune gratuită a ChatGPT (OpenAI).
 
 :::
+:::
 
-:::
-:::
 ::: {.column width="40%"}
 <br>
 ![](/images/AI-domain.svg){fig-align="center"}
@@ -177,12 +177,25 @@ Un [sistem de IA]{.mark} se referă la un software care este dezvoltat prin una 
 
 ## 
 
-![](/images/aplicatii-IA.svg){fig-align="center"}
+<div>
+![](/images/spam.png){.absolute bottom=30 right=50 width="200" height="150" .fragment fragment-index=2}
+![](/images/recommendation.png){.absolute bottom=230 right=50 width="250" height="150" .fragment fragment-index=3}
+![](/images/AI-in-desease-diagnosis.png){.absolute bottom=430 right=50 width="250" height="150" .fragment fragment-index=4}
+![](/images/agriculture.png){.absolute bottom=30 left=50 width="250" height="150" .fragment fragment-index=9}
+![](/images/education.png){.absolute bottom=230 left=50 width="250" height="150" .fragment fragment-index=8}
+![](/images/art.png){.absolute bottom=430 left=50 width="250" height="150" .fragment fragment-index=7}
+![](/images/self-driving.png){.absolute top=90 left=400 width="300" height="250" .fragment fragment-index=6}
+![](/images/analysis.png){.absolute top=120 right=430 width="350" height="200" .fragment fragment-index=5}
+![](/images/IA.svg){ .absolute bottom=40 left=600 width="500" height="500" .fragment fragment-index=1}
+</div>
 
+<div class="absolute" style="top: 1px; left: 50%; transform: translateX(-50%); width: 100%; text-align: center;">
+IA are aplicabilitate în aproape toate domeniile ...
+</div>
 
-<center>
-IA are aplicabilitate în aproape toate domeniile <br>și potențial să ne transforme viețile.
-</center>
+<div class="absolute fragment" data-fragment-index="10" style="bottom: 1px; left: 50%; transform: translateX(-50%); width: 100%; text-align: center;">
+... și potențial să ne transforme viețile.
+</div>
 
 
 ##
@@ -190,18 +203,19 @@ IA are aplicabilitate în aproape toate domeniile <br>și potențial să ne tran
 ::: {.columns}
 ::: {.column}
 
-<center>
+::: center
 Unii oamenii cred că IA <br> va transforma economia.
-</center>
+:::
 
 ![](/images/pro-IA.svg){width="70%" fig-align="center"}
 
 :::
 ::: {.column}
 ::: fragment
-<center>
+::: center
 Alții, cred că <br> va transforma scietatea.
-</center>
+:::
+
 ![](/images/cons-IA.svg){width="70%" fig-align="center"}
 
 :::
@@ -209,9 +223,9 @@ Alții, cred că <br> va transforma scietatea.
 :::
 
 ::: fragment
-<center>
+::: center
 Însă mulți oameni nu știu <br> că IA ia decizii care le impactează viața în mod direct.
-</center>
+:::
 :::
 
 ::: notes
@@ -224,7 +238,11 @@ Având în vedere implicațiile pe scară largă și necunoscute pe care IA le a
 
 ## Ce este Etica?
 
+<br>
+
 Etica este un set de principii morale care ne ajută să discernem între bine și rău.
+
+<br>
 
 ::: {.columns}
 ::: {.column width="60%"}
@@ -235,21 +253,20 @@ Teodoraturovic, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), 
 </div>
 
 :::
-::: {.column width="40%"}
+::: {.column width="40%" .center}
 
 - Ce este bine sau rău?
 - Ce este corect sau greșit?
 - Ce este dreptatea, bunăstarea sau egalitatea?
-
 
 :::
 :::
 
 ## Ce este Etica în IA?
 
-<center>
+::: center
 **Ce ar trebui să facă mașina autonomă?**
-</center>
+:::
 
 
 ::: {.columns}
@@ -272,7 +289,10 @@ Sursa: https://www.moralmachine.net/
 
 ## Ce s-ar întâmpla dacă ...
 
+<br>
+
 ::: incremental
+
 - Un sistem de IA ar decide dacă primiți sau nu un împrumut?
 - Un sistem de IA ar judeca daca cineva este sau nu condamnat la închisoare?
 - O mașină autonomă ar trebui să decidă dacă să salveze viața pasagerului din mașină sau a pietonului?
@@ -280,13 +300,15 @@ Sursa: https://www.moralmachine.net/
 - Un sistem de IA ar decide dacă să intri sau nu la facultatea la care ai aplicat?
 :::
 
-::: fragment
-::: big
+<br>
 
-<center>
+::: fragment
+::: large
+
+::: center
 
 [**Astăzi IA ia decizii care ne impactează în mod direct.**]{.mark}
-</center>
+:::
 
 :::
 :::
@@ -294,8 +316,9 @@ Sursa: https://www.moralmachine.net/
 
 ## Ce este Etica în IA?
 
+<br>
 
-**Etica IA** sau **IA Responsabilă** este un set de principii și linii directoare care ghidează dezvoltarea, implementarea și utilizarea IA. 
+**Etica IA** sau **IA Responsabilă** este un set de principii și linii directoare care ghidează [dezvoltarea, implementarea și utilizarea IA]{.mark}. 
 
 <br>
 
@@ -377,11 +400,8 @@ Completează celelalte patru principii:
 ## Provocările IA
 
 13 provocări ale IA pe care este bine să le cunoaștem
-<br>
 
-::: smallest
-
-<br>
+::: small
 
 - Responsabilitatea
 - Resursele necesare pentru operarea sistemelor IA
@@ -405,13 +425,13 @@ IA Responsabilă implică adoptarea unor practici care să facă față provocă
 
 ## Responsabilitatea
 
-
+<br>
 
 ::: {.card-container}
 
 ::: {.card .fragment}
 
-#### Responsabilitatea
+**Responsabilitatea**
 
 ::: smallest
 Responsabilitatea este esențială pentru gestionarea riscurilor create de IA.
@@ -422,13 +442,13 @@ Responsabilitatea este esențială pentru gestionarea riscurilor create de IA.
 - Dacă sistemul nu funcționează bine – dacă este nesigur, este părtinitor sau face o greșeală – cine este responsabil?
 - Cum ar putea cineva să raporteze o problemă cu sistemul de IA?
 - Ce s-ar întâmpla dacă ar face-o?
+
 :::
 :::
 
 ::: {.card .fragment}
 
-
-#### De ce este o provocare?
+**De ce este o provocare?**
 
 ::: smallest
 
@@ -440,6 +460,7 @@ Informațiile, argumentele și alegerile sunt ascunse în spatele tehnologiei, d
 - Este greu de identificat o problemă și de a găsi soluții eficiente.  
 
 - Astfel, există riscul unei "*prăbușiri totale a responsabilității*".
+
 :::
 :::
 
@@ -450,11 +471,10 @@ Informațiile, argumentele și alegerile sunt ascunse în spatele tehnologiei, d
 Sursa: https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit
 </div>
 
-::: smallest
+
 **Cazul Air Canada**
 
 **Responsabilitatea chatbot-urilor**
-:::
 :::
 
 :::
@@ -472,12 +492,13 @@ Acest caz este un exemplu clar al modului în care responsabilitatea poate deven
 
 ## Resursele necesare pentru operarea sistemelor IA
 
+<br>
 
 ::: {.card-container}
 
 ::: {.card .fragment}
 
-#### Costul ascuns al IA
+**Costul ascuns al IA**
 
 ::: smallest
 Producerea și operarea sistemelor de IA necesită o cantitate enormă de energie și resurse.
@@ -495,7 +516,7 @@ Crearea unei singure imagini poate consuma la fel de multă energie ca încărca
 
 ::: {.card .fragment}
 
-#### De ce este o provocare?
+**De ce este o provocare?**
 
 ::: smallest
 
@@ -512,24 +533,27 @@ Crearea unei singure imagini poate consuma la fel de multă energie ca încărca
 
 ::: {.card .fragment }
 
-<center>
+::: center
 
 {{< video https://www.youtube.com/watch?v=b0C56yqIkbk >}}
 
-</center>
+:::
 
 :::
 :::
 
 ## Incertitudinea profundă
 
+<br>
+
 ::: {.card-container}
 
 ::: {.card .fragment}
 
-#### Incertitudinea profundă
+**Incertitudinea profundă**
 
 ::: smallest
+
 Incertitudinea profundă înseamnă că nu știm exact cum va evolua IA, cum ne va schimba viața și societatea sau cum va fi reglementată.
 
 <br>
@@ -544,9 +568,10 @@ Incertitudinea profundă înseamnă că nu știm exact cum va evolua IA, cum ne 
 
 ::: {.card .fragment}
 
-#### De ce este o provocare?
+**De ce este o provocare?**
 
 ::: smallest
+
 - Deoarece sistemele IA nu "gândesc" ca oamenii, ele se comportă adesea în moduri nefamiliare și neașteptate, chiar și pentru cei care le-au construit.
 
 - Tehnologia IA, în special cea generativă, evoluează cu o viteză amețitoare, dobândind capacități care recent păreau de neimaginat.
@@ -592,4 +617,7 @@ Jaques, A. E., Phillips-Brown, M., & Nemes, M. (2024, November 13). It's not jus
 
 [Introducing the OECD AI Capability Indicators](https://www.oecd.org/en/publications/introducing-the-oecd-ai-capability-indicators_be745f04-en.html)
 
+[Why This Award-Winning Piece of AI Art Can’t Be Copyrighted](https://www.wired.com/story/ai-art-copyright-matthew-allen/)
+
 :::
+
