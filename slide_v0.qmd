@@ -4,11 +4,10 @@ subtitle: "Provocări și considerații etice în IA"
 format: 
   letterbox-revealjs:
     theme: [default, _style.scss]
-    width: 1280
-    height: 720
+    width: "1280"
+    height: "720"
     slide-number: true
-    embed-resources: true
-
+    
 ---
 
 
