@@ -35,13 +35,10 @@ format:
 ::: {.columns}
 ::: {.column}
 
-<br>
+<br><br>
 
-- IA este o tehnologie care permite sistemelor (software din computere sau mașini) să simuleze inteligența umană.
+- Scopul domeniului IA este de a crea sisteme inteligente care pot executa anumite sarcini care necesită, de obicei, inteligență umană.
 
-<br>
-
-- IA poate executa anumite sarcini care necesită, de obicei, inteligență umană, de exemplu învățare sau raționament.
 :::
 
 
@@ -52,7 +49,7 @@ format:
 
 ## 
 
-Un [**sistem de IA**]{.mark} se referă la un software care este dezvoltat prin una sau mai multe tehnici și abordări și care, pentru un anumit set de obiective definite de om, poate genera rezultate precum previziuni, recomandări, decizii sau conținuturi care pot influența mediile cu care interacționează.
+Un [**sistem de IA**]{.mark} este o entitate bazată pe o mașină care integrează componente hardware și software. Acesta este dezvoltat folosind una sau mai multe tehnici și abordări, permițându-i să genereze, pentru un set de obiective specificate de om, rezultate precum previziuni, recomandări, decizii sau conținuturi, care pot influența mediile cu care interacționează.
 
 
 ::: {.columns}
@@ -76,11 +73,11 @@ Un [**sistem de IA**]{.mark} se referă la un software care este dezvoltat prin 
 
 <br>
 
-- **Învățarea automată (ML)** este un subdomeniu a inteligenței artificiale (IA) care permite sistemelor să învețe și să ia decizii pe baza datelor, fără a fi programate explicit pentru fiecare sarcină.
+- **Învățarea automată (ML)** este un subdomeniu al inteligenței artificiale (IA) care permite sistemelor [să învețe din date și să identifice tipare]{.mark}, fără a fi programate explicit pentru fiecare sarcină.
 
-- Sistemele IA, folosind algoritmi (metode pas cu pas pentru a rezolva probleme), învață direct din date să recunoască trenduri. 
+- Folosind algoritmi și modele statistice, sistemele de învățare automată analizează direct datele pentru a recunoaște aceste tipare.
 
-- Aceste trenduri ajută în realizarea predicțiilor și a recomandărilor.
+- Prin identificarea tiparelor un sistem de IA poate genera predicții sau recomandări.
 
 :::
 :::
@@ -91,6 +88,7 @@ Un [**sistem de IA**]{.mark} se referă la un software care este dezvoltat prin 
 
 :::
 :::
+
 
 ## Învățarea profundă
 
@@ -102,13 +100,12 @@ Un [**sistem de IA**]{.mark} se referă la un software care este dezvoltat prin 
 <br>
 
 
-- **Învățarea profundă (DL)** este o formă avansată a învățării automate care folosește **rețele neuronale artificiale**.
+- **Învățarea profundă (DL)** este o formă avansată a învățării automate care folosește [rețele neuronale artificiale]{.mark} pentru a învăța dint-o cantitate foarte mare de date.
 
-- Acestea sunt modelate imitând creierul uman pentru a identifica relațiile dintre cuvinte, fraze în cantități mari de date. 
+- Rețelele neuronale au fost inspirate de structura creierului uman, însă felul în care sunt modelate nu are legătură cu modul în care creierul uman funcționează. 
 
-- Sunt folosite pentru diferite sarcini cum ar fi recunoașterea obiectelor în imagini sau cu a cuvintelor în vorbile.
 
-- Rețelele sunt adesea descrise drept "cutii negre", deoarece "deciziile" pe care le iau pentru a obține rezultate nu sunt întotdeauna transparente.
+
 :::
 :::
 
@@ -118,6 +115,67 @@ Un [**sistem de IA**]{.mark} se referă la un software care este dezvoltat prin 
 
 :::
 :::
+
+## Care este diferența între învățarea automată și învățarea profundă?
+
+<br>
+
+![](/images/ML-DL.svg){fig-align="center" height="512"}
+
+::: notes
+
+Să luăm un exemplu concret. 
+
+Dacă doriți să utilizați un model de învățare automată pentru a determina dacă o anumită imagine prezintă o mașină sau nu, noi, oamenii, trebuie mai întâi să identificăm caracteristicile unice ale unei mașini (formă, dimensiune, geamuri, roți etc.), apoi să extragem caracteristica și să o oferim algoritmului ca date de intrare. În acest fel, algoritmul ar efectua o clasificare a imaginilor. Adică, în învățarea automată, un programator trebuie să intervină direct în acțiune pentru ca modelul să ajungă la o concluzie.
+
+În cazul unui model de deep learning, pasul de extragere a caracteristicilor este complet inutil. Modelul recunoaște aceste caracteristici unice ale unei mașini și ar face predicții corecte fără intervenție umană.
+
+În timpul procesului de antrenament, rețeaua neuronală optimizează etapa de extragere a caracteristicilor  pentru a obține cea mai bună reprezentare abstractă posibilă a datelor de intrare. Aceasta înseamnă că modelele de deep learning necesită puțin sau deloc efort manual pentru a efectua și optimiza procesul de extragere a caracteristicilor.
+
+De fapt, abținerea de la extragerea caracteristicilor datelor se aplică oricărei alte sarcini pe care o veți face vreodată cu rețelele neuronale. Pur și simplu dați datele brute rețelei neuronale, iar modelul va face restul.
+:::
+
+
+## Exemplu de învățare automată: **Recomandările**
+<br>
+
+Cum funcționează <span class="logos--youtube"></span>  sau  <span class="logos--netflix"></span>?
+
+::: {.columns}
+::: {.column width="50%"}
+::: fragment
+<br>
+
+**1. Datele**
+
+Sistemul analizează date despre:
+
+- Videoclipurile pe care le-ai vizionat.
+- Cât timp ai petrecut vizionându-le.
+- Videoclipurile pe care le-ai apreciat (`Like`) sau la care te-ai abonat.
+- Ce vizionează alți utilizatori cu gusturi similare.
+:::
+:::
+
+::: {.column width="50%"}
+<br>
+
+::: fragment
+**2. Identificarea tiparelor**
+
+Algoritmul de învățare automată identifică relații: *"Utilizatorii care au vizionat videoclipuri despre programare și jocuri video sunt, de asemenea, interesați de recenzii de hardware."*
+:::
+
+<br>
+
+::: fragment
+**3. Predicția**
+
+Pe baza acestor tipare, sistemul îți [**recomandă un videoclip nou**]{.mark}, prezicând că există o probabilitate mare să îți placă.
+:::
+:::
+:::
+
 
 ## IA Generativă
 
@@ -178,6 +236,7 @@ Un [**sistem de IA**]{.mark} se referă la un software care este dezvoltat prin 
 ## 
 
 <div>
+
 ![](/images/spam.png){.absolute bottom=30 right=50 width="250" height="150" .fragment fragment-index=2}
 ![](/images/netflix.png){.absolute bottom=230 right=50 width="250" height="150" .fragment fragment-index=3}
 ![](/images/AI-in-desease-diagnosis.png){.absolute bottom=430 right=50 width="250" height="150" .fragment fragment-index=4}
@@ -187,7 +246,9 @@ Un [**sistem de IA**]{.mark} se referă la un software care este dezvoltat prin 
 ![](/images/self-driving.png){.absolute top=90 left=400 width="300" height="250" .fragment fragment-index=6}
 ![](/images/analysis.png){.absolute top=120 right=430 width="350" height="200" .fragment fragment-index=5}
 ![](/images/IA.svg){ .absolute bottom=40 left=600 width="500" height="500" .fragment fragment-index=1}
+
 </div>
+
 
 <div class="absolute" style="top: 1px; left: 50%; transform: translateX(-50%); width: 100%; text-align: center;">
 IA are aplicabilitate în aproape toate domeniile ...
@@ -604,6 +665,8 @@ Incertitudinea profundă înseamnă că nu știm exact cum va evolua IA, cum ne 
 [EU AI Act, 2024](https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1689)
 
 [Artificial Intelligence (AI)](https://libguides.library.uu.nl/Artificial_Intelligence)
+
+[What Is Deep Learning and How Does It Work?](https://builtin.com/machine-learning/deep-learning)
 
 [Economic impacts of artificial intelligence (AI)](https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/637967/EPRS_BRI(2019)637967_EN.pdf)
 
