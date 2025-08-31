@@ -14,7 +14,7 @@
     "href": "slide_v0.html#section",
     "title": "Inteligența Artificială Responsabilă",
     "section": "",
-    "text": "În 1956 Profesorul John McCarthy împreună cu colegii săi au inventat termenul inteligența artificială (IA) ca fiind știința și ingineria construirii de mașini inteligente.\n\n\n\n\nIA este o tehnologie care permite sistemelor (software din computere sau mașini) să simuleze inteligența umană.\n\n\n\nIA poate executa anumite sarcini care necesită, de obicei, inteligență umană, de exemplu învățare sau raționament.",
+    "text": "În 1956 Profesorul John McCarthy împreună cu colegii săi au inventat termenul inteligența artificială (IA) ca fiind știința și ingineria construirii de mașini inteligente.\n\n\n\n\nScopul domeniului IA este de a crea sisteme inteligente care pot executa anumite sarcini care necesită, de obicei, inteligență umană.",
     "crumbs": [
       "Prezentare"
     ]
@@ -24,7 +24,7 @@
     "href": "slide_v0.html#section-1",
     "title": "Inteligența Artificială Responsabilă",
     "section": "",
-    "text": "Un sistem de IA se referă la un software care este dezvoltat prin una sau mai multe tehnici și abordări și care, pentru un anumit set de obiective definite de om, poate genera rezultate precum previziuni, recomandări, decizii sau conținuturi care pot influența mediile cu care interacționează.",
+    "text": "Un sistem de IA este o entitate bazată pe o mașină care integrează componente hardware și software. Acesta este dezvoltat folosind una sau mai multe tehnici și abordări, permițându-i să genereze, pentru un set de obiective specificate de om, rezultate precum previziuni, recomandări, decizii sau conținuturi, care pot influența mediile cu care interacționează.",
     "crumbs": [
       "Prezentare"
     ]
@@ -34,7 +34,7 @@
     "href": "slide_v0.html#învățarea-automată",
     "title": "Inteligența Artificială Responsabilă",
     "section": "Învățarea automată",
-    "text": "Învățarea automată\n\n\n\n\nÎnvățarea automată (ML) este un subdomeniu a inteligenței artificiale (IA) care permite sistemelor să învețe și să ia decizii pe baza datelor, fără a fi programate explicit pentru fiecare sarcină.\nSistemele IA, folosind algoritmi (metode pas cu pas pentru a rezolva probleme), învață direct din date să recunoască trenduri.\nAceste trenduri ajută în realizarea predicțiilor și a recomandărilor.",
+    "text": "Învățarea automată\n\n\n\n\nÎnvățarea automată (ML) este un subdomeniu al inteligenței artificiale (IA) care permite sistemelor să învețe din date și să identifice tipare, fără a fi programate explicit pentru fiecare sarcină.\nFolosind algoritmi și modele statistice, sistemele de învățare automată analizează direct datele pentru a recunoaște aceste tipare.\nPrin identificarea tiparelor un sistem de IA poate genera predicții sau recomandări.",
     "crumbs": [
       "Prezentare"
     ]
@@ -44,7 +44,27 @@
     "href": "slide_v0.html#învățarea-profundă",
     "title": "Inteligența Artificială Responsabilă",
     "section": "Învățarea profundă",
-    "text": "Învățarea profundă\n\n\n\n\nÎnvățarea profundă (DL) este o formă avansată a învățării automate care folosește rețele neuronale artificiale.\nAcestea sunt modelate imitând creierul uman pentru a identifica relațiile dintre cuvinte, fraze în cantități mari de date.\nSunt folosite pentru diferite sarcini cum ar fi recunoașterea obiectelor în imagini sau cu a cuvintelor în vorbile.\nRețelele sunt adesea descrise drept “cutii negre”, deoarece “deciziile” pe care le iau pentru a obține rezultate nu sunt întotdeauna transparente.",
+    "text": "Învățarea profundă\n\n\n\n\nÎnvățarea profundă (DL) este o formă avansată a învățării automate care folosește rețele neuronale artificiale pentru a învăța dint-o cantitate foarte mare de date.\nRețelele neuronale au fost inspirate de structura creierului uman, însă felul în care sunt modelate nu are legătură cu modul în care creierul uman funcționează.",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#care-este-diferența-între-învățarea-automată-și-învățarea-profundă",
+    "href": "slide_v0.html#care-este-diferența-între-învățarea-automată-și-învățarea-profundă",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Care este diferența între învățarea automată și învățarea profundă?",
+    "text": "Care este diferența între învățarea automată și învățarea profundă?\n\n\n\n\n\n\n\nSă luăm un exemplu concret.\nDacă doriți să utilizați un model de învățare automată pentru a determina dacă o anumită imagine prezintă o mașină sau nu, noi, oamenii, trebuie mai întâi să identificăm caracteristicile unice ale unei mașini (formă, dimensiune, geamuri, roți etc.), apoi să extragem caracteristica și să o oferim algoritmului ca date de intrare. În acest fel, algoritmul ar efectua o clasificare a imaginilor. Adică, în învățarea automată, un programator trebuie să intervină direct în acțiune pentru ca modelul să ajungă la o concluzie.\nÎn cazul unui model de deep learning, pasul de extragere a caracteristicilor este complet inutil. Modelul recunoaște aceste caracteristici unice ale unei mașini și ar face predicții corecte fără intervenție umană.\nÎn timpul procesului de antrenament, rețeaua neuronală optimizează etapa de extragere a caracteristicilor pentru a obține cea mai bună reprezentare abstractă posibilă a datelor de intrare. Aceasta înseamnă că modelele de deep learning necesită puțin sau deloc efort manual pentru a efectua și optimiza procesul de extragere a caracteristicilor.\nDe fapt, abținerea de la extragerea caracteristicilor datelor se aplică oricărei alte sarcini pe care o veți face vreodată cu rețelele neuronale. Pur și simplu dați datele brute rețelei neuronale, iar modelul va face restul.",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v0.html#exemplu-de-învățare-automată-recomandările",
+    "href": "slide_v0.html#exemplu-de-învățare-automată-recomandările",
+    "title": "Inteligența Artificială Responsabilă",
+    "section": "Exemplu de învățare automată: Recomandările",
+    "text": "Exemplu de învățare automată: Recomandările\n\nCum funcționează  sau ?\n\n\n\n\n1. Datele\nSistemul analizează date despre:\n\nVideoclipurile pe care le-ai vizionat.\nCât timp ai petrecut vizionându-le.\nVideoclipurile pe care le-ai apreciat (Like) sau la care te-ai abonat.\nCe vizionează alți utilizatori cu gusturi similare.\n\n\n\n\n\n2. Identificarea tiparelor\nAlgoritmul de învățare automată identifică relații: “Utilizatorii care au vizionat videoclipuri despre programare și jocuri video sunt, de asemenea, interesați de recenzii de hardware.”\n\n\n\n3. Predicția\nPe baza acestor tipare, sistemul îți recomandă un videoclip nou, prezicând că există o probabilitate mare să îți placă.",
     "crumbs": [
       "Prezentare"
     ]
@@ -174,7 +194,7 @@
     "href": "slide_v0.html#referințe",
     "title": "Inteligența Artificială Responsabilă",
     "section": "Referințe",
-    "text": "Referințe\n\nJohn McCarthy (computer scientist). (8 August 2025) În Wikipedia.\nEU AI Act, 2024\nArtificial Intelligence (AI)\nEconomic impacts of artificial intelligence (AI)\nHuman-first AI: What decisions today will impact AI for humanity tomorrow?\nFloridi, L., & Cowls, J. (2019). A Unified Framework of Five Principles for AI in Society. Harvard Data Science Review, 1(1). https://doi.org/10.1162/99608f92.8cd550d1\nJaques, A. E., Phillips-Brown, M., & Nemes, M. (2024, November 13). It’s not just business: AI risks, rewards and responsibilities. Zenodo. https://doi.org/10.5281/zenodo.14137369\nIntroducing the OECD AI Capability Indicators\nWhy This Award-Winning Piece of AI Art Can’t Be Copyrighted\nNazish Aijaz, He Lan, Tausif Raza, Muhammad Yaqub, Rashid Iqbal, Muhammad Salman Pathan, Artificial intelligence in agriculture: Advancing crop productivity and sustainability, Journal of Agriculture and Food Research, Volume 20, 2025, 101762, ISSN 2666-1543, https://doi.org/10.1016/j.jafr.2025.101762.",
+    "text": "Referințe\n\nJohn McCarthy (computer scientist). (8 August 2025) În Wikipedia.\nEU AI Act, 2024\nArtificial Intelligence (AI)\nWhat Is Deep Learning and How Does It Work?\nEconomic impacts of artificial intelligence (AI)\nHuman-first AI: What decisions today will impact AI for humanity tomorrow?\nFloridi, L., & Cowls, J. (2019). A Unified Framework of Five Principles for AI in Society. Harvard Data Science Review, 1(1). https://doi.org/10.1162/99608f92.8cd550d1\nJaques, A. E., Phillips-Brown, M., & Nemes, M. (2024, November 13). It’s not just business: AI risks, rewards and responsibilities. Zenodo. https://doi.org/10.5281/zenodo.14137369\nIntroducing the OECD AI Capability Indicators\nWhy This Award-Winning Piece of AI Art Can’t Be Copyrighted\nNazish Aijaz, He Lan, Tausif Raza, Muhammad Yaqub, Rashid Iqbal, Muhammad Salman Pathan, Artificial intelligence in agriculture: Advancing crop productivity and sustainability, Journal of Agriculture and Food Research, Volume 20, 2025, 101762, ISSN 2666-1543, https://doi.org/10.1016/j.jafr.2025.101762.",
     "crumbs": [
       "Prezentare"
     ]
